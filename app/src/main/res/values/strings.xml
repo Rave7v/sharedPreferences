@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharedPreferences</string>
+    <string name="title_text">este es el titulo de almacenamiento</string>
+
+</resources>
